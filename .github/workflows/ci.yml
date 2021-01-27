@@ -3,8 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - master
-      # bors needs CI to trigger for pushes to its staging/trying branches
+      - main
       - staging
       - trying
   pull_request:
