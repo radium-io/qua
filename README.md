@@ -2,7 +2,7 @@
     <img src="https://s3-us-west-1.amazonaws.com/radium.io/logo.svg" alt="Radium logo" title="Radium.io" align="right" height="120" />
 </a>
 
-qua?
+qua? :thinking:
 ===========
 [![Crates.io](https://img.shields.io/crates/v/qua.svg)](https://crates.io/crates/qua)
 [![Workflow Status](https://github.com/radium-io/qua/CI/badge.svg)](https://github.com/radium-io/qua/actions?query=workflow%3A%22CI%22)
