@@ -1,0 +1,8 @@
+[package]
+name = "qua"
+version = "0.1.0"
+authors = ["Emory Petermann [emory@radium.io]"]
+edition = "2018"
+
+[dependencies]
+crossterm = "0.19.0"
