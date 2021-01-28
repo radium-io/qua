@@ -5,7 +5,7 @@
 qua? :thinking:
 ===========
 [![Crates.io](https://img.shields.io/crates/v/qua.svg)](https://crates.io/crates/qua)
-[![Workflow Status](https://github.com/radium-io/qua/CI/badge.svg)](https://github.com/radium-io/qua/actions?query=workflow%3A%22CI%22)
+[![CI Status](https://github.com/radium-io/qua/workflows/CI/badge.svg)](https://github.com/radium-io/qua/actions?query=workflow%3A%22CI%22)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
 `qua` is an alternative screen mode terminal application for composing SQL statements for use with any SQL compatible database software.  It helps you to write well-formatted, validated, idiomatic SQL without leaving the command line.
